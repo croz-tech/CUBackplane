@@ -12123,7 +12123,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.mouser.com/datasheet/2/179/PDF_DS_09024646824_EN-3502573.pdf"
 			(at 132.08 66.04 0)
 			(effects
 				(font
@@ -12133,6 +12133,15 @@
 			)
 		)
 		(property "Description" "Generic connector, double row, 02x32, row letter first pin numbering scheme (pin number consists of a letter for the row and a number for the pin index in this row. a1, ..., aN; b1, ..., bN), script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 132.08 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Link" "https://mou.sr/4iZWKR4"
 			(at 132.08 66.04 0)
 			(effects
 				(font
@@ -12396,6 +12405,15 @@
 				(hide yes)
 			)
 		)
+		(property "Mouser Link" ""
+			(at 217.17 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "15595deb-f02b-48fd-8b73-2c3bedc9d1db")
 		)
@@ -12452,6 +12470,15 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x01, script generated"
+			(at 44.45 158.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Link" ""
 			(at 44.45 158.75 0)
 			(effects
 				(font
@@ -12518,6 +12545,15 @@
 			)
 		)
 		(property "Description" "test point"
+			(at 217.17 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Link" ""
 			(at 217.17 86.36 0)
 			(effects
 				(font
@@ -12658,6 +12694,15 @@
 				(hide yes)
 			)
 		)
+		(property "Mouser Link" ""
+			(at 217.17 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "4d6f2121-a46d-4888-8d1c-50ff0a4cfcd6")
 		)
@@ -12716,6 +12761,15 @@
 			)
 		)
 		(property "Description" "test point"
+			(at 217.17 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Link" ""
 			(at 217.17 33.02 0)
 			(effects
 				(font
@@ -12790,6 +12844,15 @@
 				(hide yes)
 			)
 		)
+		(property "Mouser Link" ""
+			(at 217.17 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "67d02b96-fdf6-4d0a-ba63-238e53e76c2b")
 		)
@@ -12848,6 +12911,15 @@
 			)
 		)
 		(property "Description" "test point"
+			(at 217.17 27.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Link" ""
 			(at 217.17 27.94 0)
 			(effects
 				(font
@@ -12922,6 +12994,15 @@
 				(hide yes)
 			)
 		)
+		(property "Mouser Link" ""
+			(at 217.17 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "0148f59f-57cf-4cb0-ba8f-216e6c6d7ea5")
 		)
@@ -12980,6 +13061,15 @@
 			)
 		)
 		(property "Description" "test point"
+			(at 217.17 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Link" ""
 			(at 217.17 116.84 0)
 			(effects
 				(font
@@ -13101,7 +13191,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.mouser.com/datasheet/2/179/PDF_DS_09024646824_EN-3502573.pdf"
 			(at 91.44 66.04 0)
 			(effects
 				(font
@@ -13111,6 +13201,15 @@
 			)
 		)
 		(property "Description" "Generic connector, double row, 02x32, row letter first pin numbering scheme (pin number consists of a letter for the row and a number for the pin index in this row. a1, ..., aN; b1, ..., bN), script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 91.44 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Link" "https://mou.sr/4iZWKR4"
 			(at 91.44 66.04 0)
 			(effects
 				(font
@@ -13372,6 +13471,15 @@
 				(hide yes)
 			)
 		)
+		(property "Mouser Link" ""
+			(at 44.45 171.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "4a68aa0e-cc0b-4cd0-afb3-a1adbba207bb")
 		)
@@ -13438,6 +13546,15 @@
 				(hide yes)
 			)
 		)
+		(property "Mouser Link" ""
+			(at 217.17 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "0d72eaf2-052e-4afa-bd8b-47fb7fa0ae95")
 		)
@@ -13496,6 +13613,15 @@
 			)
 		)
 		(property "Description" "test point"
+			(at 217.17 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Link" ""
 			(at 217.17 88.9 0)
 			(effects
 				(font
@@ -13634,6 +13760,15 @@
 				(hide yes)
 			)
 		)
+		(property "Mouser Link" ""
+			(at 44.45 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "2b7af732-564e-4ff6-ab79-f244b13489a0")
 		)
@@ -13692,6 +13827,15 @@
 			)
 		)
 		(property "Description" "test point"
+			(at 217.17 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Link" ""
 			(at 217.17 78.74 0)
 			(effects
 				(font
@@ -13766,6 +13910,15 @@
 				(hide yes)
 			)
 		)
+		(property "Mouser Link" ""
+			(at 217.17 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "e6a73b00-9087-4eeb-bfc6-662c789eb70b")
 		)
@@ -13824,6 +13977,15 @@
 			)
 		)
 		(property "Description" "test point"
+			(at 217.17 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Link" ""
 			(at 217.17 114.3 0)
 			(effects
 				(font
@@ -13964,6 +14126,15 @@
 				(hide yes)
 			)
 		)
+		(property "Mouser Link" ""
+			(at 217.17 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "a35db82e-49e3-436c-91a4-c74685cb1500")
 		)
@@ -14022,6 +14193,15 @@
 			)
 		)
 		(property "Description" "test point"
+			(at 217.17 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Link" ""
 			(at 217.17 60.96 0)
 			(effects
 				(font
@@ -14096,6 +14276,15 @@
 				(hide yes)
 			)
 		)
+		(property "Mouser Link" ""
+			(at 217.17 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "46405dfa-d5c4-400e-bc00-d27639b829a4")
 		)
@@ -14154,6 +14343,15 @@
 			)
 		)
 		(property "Description" "test point"
+			(at 217.17 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Link" ""
 			(at 217.17 50.8 0)
 			(effects
 				(font
@@ -14228,6 +14426,15 @@
 				(hide yes)
 			)
 		)
+		(property "Mouser Link" ""
+			(at 217.17 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "532bec42-b558-4582-828d-ea5abbb1faba")
 		)
@@ -14284,6 +14491,15 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x01, script generated"
+			(at 44.45 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Link" ""
 			(at 44.45 152.4 0)
 			(effects
 				(font
@@ -14358,6 +14574,15 @@
 				(hide yes)
 			)
 		)
+		(property "Mouser Link" ""
+			(at 217.17 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "826d2b09-d00e-4cf0-9678-223b196e23d7")
 		)
@@ -14416,6 +14641,15 @@
 			)
 		)
 		(property "Description" "test point"
+			(at 217.17 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Link" ""
 			(at 217.17 53.34 0)
 			(effects
 				(font
@@ -14490,6 +14724,15 @@
 				(hide yes)
 			)
 		)
+		(property "Mouser Link" ""
+			(at 217.17 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "9e4e5e26-9f12-4caa-bf3b-27821287f27d")
 		)
@@ -14548,6 +14791,15 @@
 			)
 		)
 		(property "Description" "test point"
+			(at 217.17 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Link" ""
 			(at 217.17 58.42 0)
 			(effects
 				(font
@@ -14622,6 +14874,15 @@
 				(hide yes)
 			)
 		)
+		(property "Mouser Link" ""
+			(at 217.17 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "07af966b-e8e2-4075-9600-b655eef2b8e0")
 		)
@@ -14678,6 +14939,15 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x01, script generated"
+			(at 44.45 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Link" ""
 			(at 44.45 146.05 0)
 			(effects
 				(font
@@ -14752,6 +15022,15 @@
 				(hide yes)
 			)
 		)
+		(property "Mouser Link" ""
+			(at 217.17 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "ae6eab0a-9c24-487f-a571-b4658e090423")
 		)
@@ -14810,6 +15089,15 @@
 			)
 		)
 		(property "Description" "test point"
+			(at 217.17 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Link" ""
 			(at 217.17 101.6 0)
 			(effects
 				(font
@@ -14950,6 +15238,15 @@
 				(hide yes)
 			)
 		)
+		(property "Mouser Link" ""
+			(at 217.17 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "e73adf7d-98c2-402a-b495-c4851aa21d1f")
 		)
@@ -15008,6 +15305,15 @@
 			)
 		)
 		(property "Description" "test point"
+			(at 217.17 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Link" ""
 			(at 217.17 106.68 0)
 			(effects
 				(font
@@ -15082,6 +15388,15 @@
 				(hide yes)
 			)
 		)
+		(property "Mouser Link" ""
+			(at 217.17 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "a85e6c56-3f92-4051-92df-69c3a96a4dda")
 		)
@@ -15148,6 +15463,15 @@
 				(hide yes)
 			)
 		)
+		(property "Mouser Link" ""
+			(at 217.17 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "328118b0-a1a8-4281-8727-25678f241d17")
 		)
@@ -15206,6 +15530,15 @@
 			)
 		)
 		(property "Description" "test point"
+			(at 217.17 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Link" ""
 			(at 217.17 40.64 0)
 			(effects
 				(font
@@ -15327,7 +15660,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.mouser.com/datasheet/2/179/PDF_DS_09024646824_EN-3502573.pdf"
 			(at 50.8 66.04 0)
 			(effects
 				(font
@@ -15337,6 +15670,15 @@
 			)
 		)
 		(property "Description" "Generic connector, double row, 02x32, row letter first pin numbering scheme (pin number consists of a letter for the row and a number for the pin index in this row. a1, ..., aN; b1, ..., bN), script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 50.8 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Link" "https://mou.sr/4iZWKR4"
 			(at 50.8 66.04 0)
 			(effects
 				(font
@@ -15598,6 +15940,15 @@
 				(hide yes)
 			)
 		)
+		(property "Mouser Link" ""
+			(at 44.45 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "64dbd33a-32e2-41f6-a4e0-b06ac104bc57")
 		)
@@ -15664,6 +16015,15 @@
 				(hide yes)
 			)
 		)
+		(property "Mouser Link" ""
+			(at 217.17 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "8d56c48e-d98b-497c-bbe6-c0ef450a46a1")
 		)
@@ -15711,7 +16071,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.mouser.com/datasheet/2/179/PDF_DS_09024646824_EN-3502573.pdf"
 			(at 171.45 66.04 0)
 			(effects
 				(font
@@ -15721,6 +16081,15 @@
 			)
 		)
 		(property "Description" "Generic connector, double row, 02x32, row letter first pin numbering scheme (pin number consists of a letter for the row and a number for the pin index in this row. a1, ..., aN; b1, ..., bN), script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 171.45 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Link" "https://mou.sr/4iZWKR4"
 			(at 171.45 66.04 0)
 			(effects
 				(font
@@ -16050,6 +16419,15 @@
 				(hide yes)
 			)
 		)
+		(property "Mouser Link" ""
+			(at 217.17 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "688a3b69-0730-4ebf-9dcc-84dacfb0f6c3")
 		)
@@ -16108,6 +16486,15 @@
 			)
 		)
 		(property "Description" "test point"
+			(at 217.17 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Link" ""
 			(at 217.17 91.44 0)
 			(effects
 				(font
@@ -16182,6 +16569,15 @@
 				(hide yes)
 			)
 		)
+		(property "Mouser Link" ""
+			(at 217.17 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "5cae85b6-8cfb-4688-832b-a2a7340a53dd")
 		)
@@ -16248,6 +16644,15 @@
 				(hide yes)
 			)
 		)
+		(property "Mouser Link" ""
+			(at 217.17 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "47904ab4-5098-4ceb-9a49-902856623a6e")
 		)
@@ -16304,6 +16709,15 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x01, script generated"
+			(at 44.45 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Link" ""
 			(at 44.45 177.8 0)
 			(effects
 				(font
@@ -16378,6 +16792,15 @@
 				(hide yes)
 			)
 		)
+		(property "Mouser Link" ""
+			(at 217.17 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "fcd53a1a-c694-4838-a447-feb315badaf3")
 		)
@@ -16444,6 +16867,15 @@
 				(hide yes)
 			)
 		)
+		(property "Mouser Link" ""
+			(at 217.17 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "06e9f8be-dfa8-486e-9497-1f9f9af733dd")
 		)
@@ -16502,6 +16934,15 @@
 			)
 		)
 		(property "Description" "test point"
+			(at 217.17 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Link" ""
 			(at 217.17 55.88 0)
 			(effects
 				(font

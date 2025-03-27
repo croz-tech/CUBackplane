@@ -156,7 +156,7 @@
 		(descr "DIN41612 connector, type B, Vertical, 2 rows 32 pins wide, https://www.erni-x-press.com/de/downloads/kataloge/englische_kataloge/erni-din41612-iec60603-2-e.pdf")
 		(tags "DIN 41612 IEC 60603 B")
 		(property "Reference" "CON2"
-			(at 1.27 -9.13 0)
+			(at 7.874 -1.524 0)
 			(layer "F.SilkS")
 			(uuid "d2ae66be-1f5f-4c3f-9410-fa86c3e7c625")
 			(effects
@@ -1300,7 +1300,7 @@
 		(descr "DIN41612 connector, type B, Vertical, 2 rows 32 pins wide, https://www.erni-x-press.com/de/downloads/kataloge/englische_kataloge/erni-din41612-iec60603-2-e.pdf")
 		(tags "DIN 41612 IEC 60603 B")
 		(property "Reference" "CON4"
-			(at 1.27 -9.13 0)
+			(at -5.334 -1.524 0)
 			(layer "F.SilkS")
 			(uuid "72c6f9ec-90be-4a35-8fce-49e1953e01f9")
 			(effects
@@ -2444,7 +2444,7 @@
 		(descr "DIN41612 connector, type B, Vertical, 2 rows 32 pins wide, https://www.erni-x-press.com/de/downloads/kataloge/englische_kataloge/erni-din41612-iec60603-2-e.pdf")
 		(tags "DIN 41612 IEC 60603 B")
 		(property "Reference" "CON3"
-			(at 1.27 -9.13 0)
+			(at -5.334 -1.524 0)
 			(layer "F.SilkS")
 			(uuid "5cb57d19-0b71-4b1f-a215-f3cf4ac03dd4")
 			(effects
@@ -3588,7 +3588,7 @@
 		(descr "DIN41612 connector, type B, Vertical, 2 rows 32 pins wide, https://www.erni-x-press.com/de/downloads/kataloge/englische_kataloge/erni-din41612-iec60603-2-e.pdf")
 		(tags "DIN 41612 IEC 60603 B")
 		(property "Reference" "CON1"
-			(at 1.27 -9.13 0)
+			(at 7.874 -1.524 0)
 			(layer "F.SilkS")
 			(uuid "8b0d07a0-f64e-4a8e-9d8d-a76de0766a8a")
 			(effects
