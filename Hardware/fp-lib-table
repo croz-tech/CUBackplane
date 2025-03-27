@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "CUBackplane")(type "KiCad")(uri "${KIPRJMOD}/CUBackplane.pretty")(options "")(descr ""))
+)
